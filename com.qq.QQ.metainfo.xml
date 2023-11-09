@@ -15,13 +15,13 @@
   </description>
   <screenshots>
     <screenshot type="default">
-      <image type="source">https://static-res.qq.com/static-res/linuxqq/P1.png</image>
+      <image>https://user-images.githubusercontent.com/672668/278006499-596dd817-d90e-4777-a263-8b0dd6d70b60.png</image>
     </screenshot>
     <screenshot>
-      <image type="source">https://static-res.qq.com/static-res/linuxqq/P3.png</image>
+      <image>https://user-images.githubusercontent.com/672668/278006559-342c7d12-4c6f-4edc-81ab-230cd2848025.png</image>
     </screenshot>
     <screenshot>
-      <image type="source">https://static-res.qq.com/static-res/linuxqq/P4.png</image>
+      <image>https://user-images.githubusercontent.com/672668/278006549-c3da6fbe-82d6-46a9-a338-3f2233554c5c.png</image>
     </screenshot>
   </screenshots>
   <categories>
@@ -29,6 +29,10 @@
     <category>Network</category>
   </categories>
   <releases>
+    <release version="3.2.1-17816" date="2023-10-25"/>
+    <release version="3.2.1-17749" date="2023-10-23"/>
+    <release version="3.2.1-17412" date="2023-10-12"/>
+    <release version="3.2.1-17260" date="2023-10-11"/>
     <release version="3.2.1-17153" date="2023-09-22"/>
     <release version="3.2.0-16736" date="2023-09-11"/>
     <release version="3.2.0-16605" date="2023-09-01"/>
